@@ -8,8 +8,8 @@ import Footer from "./_components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "commuters",
-  description: "commuters let you create and manage events.",
+  title: "Commuters",
+  description: "Commuters let you create and manage events.",
   icons: {
     icon: "/mobile_logo.jpg",
   },
